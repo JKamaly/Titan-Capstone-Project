@@ -1,0 +1,7 @@
+2022-07-07 15:47:39,599 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-07-07 15:47:41,762 [main] INFO logger_File - User is on Retail WebSite
+2022-07-07 15:47:52,735 [main] INFO logger_File - Currency value changed to Euro
+2022-07-07 15:47:58,272 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-07-07 15:47:58,302 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-07-07 15:48:00,103 [main] INFO logger_File - User is on Retail WebSite
+2022-07-07 15:48:11,269 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
